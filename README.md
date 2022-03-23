@@ -1,6 +1,6 @@
 # Google Drive Uploader Telegram Bot
 **An asyncio Telegram bot to upload files from Telegram or Direct links to Google Drive.**
-- Find it on Telegram as [Google Drive Uploader](https://t.me/uploadgdrivebot)
+- Find it on Telegram as [Google Drive Uploader](http://t.me/TG_to_Gdrive_Uploader_bot)
 
 ## Features
 - [X] Telegram files support.
@@ -42,7 +42,7 @@ python3 bot.py
 ```
 ## Deploy on Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cdfxscrq/gdrive-uploader-telegram-bot/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kalpabanuja20041/GDrive-Uploader-TG-Bot/tree/master)
 
 - Note: Bot is in beta stage. Maybe it throw some errors.
 
@@ -52,5 +52,5 @@ python3 bot.py
 - [Shivam Jha](https://github.com/lzzy12) for [python-aria-mirror-bot](https://github.com/lzzy12/python-aria-mirror-bot)
 
 ## :clap:  Supporters
-[![Stargazers repo roster for @cdfxscrq/gdrive-uploader-telegram-bot](https://reporoster.com/stars/cdfxscrq/gdrive-uploader-telegram-bot)](https://github.com/cdfxscrq/gdrive-uploader-telegram-bot/stargazers)
-[![Forkers repo roster for @cdfxscrq/gdrive-uploader-telegram-bot](https://reporoster.com/forks/cdfxscrq/gdrive-uploader-telegram-bot)](https://github.com/cdfxscrq/gdrive-uploader-telegram-bot/network/members)
+[![Stargazers repo roster for @cdfxscrq/gdrive-uploader-telegram-bot](https://reporoster.com/stars/kalpabanuja20041/GDrive-Uploader-TG-Bot)](https://github.com/kalpabanuja20041/GDrive-Uploader-TG-Bot/stargazers)
+[![Forkers repo roster for @cdfxscrq/gdrive-uploader-telegram-bot](https://reporoster.com/forks/kalpabanuja20041/GDrive-Uploader-TG-Bot)](https://github.com/kalpabanuja20041/GDrive-Uploader-TG-Bot/network/members)
